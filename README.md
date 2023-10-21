@@ -1,6 +1,9 @@
 # 💫 About Me:
 B.Tech CSE final year student.<br>I’m currently learning Next Js<br>All of my projects are available at https://harshdeswal.vercel.app/<br>Know about my experiences https://drive.google.com/file/d/1P_REnr7VE0jPHUshzyYTaY8qx_rBWb2l/view?usp=sharing
 
+# HacktoberFest 2023:
+[![An image of @harshdeswal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshdeswal)](https://holopin.io/@harshdeswal)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-deswal-87400a223) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@harshdeswal81) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HarshDe62758965) 
